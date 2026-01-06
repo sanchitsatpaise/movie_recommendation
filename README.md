@@ -2,6 +2,7 @@
 
 This project is a **Content-Based Movie Recommendation System** that suggests similar movies based on a user’s selected movie. It uses **movie metadata**, **text vectorization**, and **cosine similarity** to generate accurate recommendations. The system is deployed using **Streamlit**, providing a fast, interactive, and user-friendly web interface without relying on any external APIs.
 
+**APP LINK:https://movierecommendation-7eikhtkh8bd8fowafhckve.streamlit.app/**
 ---
 
 ## 📌 1. Project Objective
